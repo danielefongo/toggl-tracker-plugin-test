@@ -7,6 +7,7 @@ module.exports = function(loader, toggl, timeSlotter, asker, config) {
       { name: "dadsds"},
     ])
     console.log(a)
+    console.log("Hei")
   }
   this.help = () => {
     return "Just Print 'Hello world!'"
